@@ -1,13 +1,15 @@
+import React from 'react';
 import './App.css';
 
 import Nav from './components/Nav';
+import Sidebar from './components/Sidebar';
 
 function App() {
   return (
     <div className="App">
       Whats good World?
       <Nav/>
-      {/* sidebar */}
+      <Sidebar />
       {/* feed */}
       {/* widgets */}
     </div>

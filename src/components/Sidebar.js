@@ -19,7 +19,7 @@ const Sidebar = () => {
         <div className='sidebar'>
             {/* <SidebarRow src={user.photoURL} title={user.displayName} /> */}
 
-            <SidebarRow src={'https://i.kym-cdn.com/entries/icons/facebook/000/031/015/cover5.jpg'} title='This also be the Name' />
+            <SidebarRow src={'https://i.kym-cdn.com/entries/icons/facebook/000/031/015/cover5.jpg' } title='This also be the Name' />
             <SidebarRow Icon={LocalHospitalIcon} title='COVID-19 Information Center'/>
             <SidebarRow Icon={EmojiFlagsIcon} title='Pages' />
             <SidebarRow Icon={PeopleIcon} title='Friends' />

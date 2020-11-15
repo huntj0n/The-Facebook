@@ -1,0 +1,6 @@
+.widgets {
+    display: flex;
+    flex: 0.33;
+    align-items: center;
+    justify-content: flex-end;
+}
